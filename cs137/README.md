@@ -1,4 +1,7 @@
-Course link: do not have a public link.  
+Course link: do not have a public link.   
+
+Language: Python, Pytorch  
+
 
 Brief HW description:
 - HW1: Introduction to Pytorch
