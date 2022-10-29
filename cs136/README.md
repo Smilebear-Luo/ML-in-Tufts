@@ -1,5 +1,7 @@
-Course link: https://www.cs.tufts.edu/comp/136/2022s/
-Language: Python
+Course link: https://www.cs.tufts.edu/comp/136/2022s/  
+
+Language: Python  
+
 Brief HW description(detailed description can be found in above link):
 
 - HW1: Implement MAE and MAP from stratch and apply to a certain dataset.
