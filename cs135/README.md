@@ -1,6 +1,9 @@
-Course Link: do not have a public link
-Language: Python
-Brief HW description:
+Course Link: do not have a public link.  
+
+Language: Python  
+
+Brief HW description:  
+
 
 HW1: Introduction to Numpy
 
