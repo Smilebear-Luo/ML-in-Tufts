@@ -1,7 +1,8 @@
-Course link: do not have a public link.   
+Course link: do not have a public link. 
 
 Language: Python, Pytorch  
 
+All assignments got the full marks.
 
 Brief HW description:
 - HW1: Introduction to Pytorch
